@@ -1,2 +1,3 @@
 # jogoMario para treinar keyframes, animation e funcoes anonimas
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/100743701/174490451-7b9f0166-1921-4eaf-9e5f-d36e5a872d40.gif)
+https://user-images.githubusercontent.com/100743701/174796281-bf272409-4fa5-4245-8960-9a9535569cc7.mp4
+
